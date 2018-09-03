@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<title>Profile_Shoaib_Mahmud</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="https://shoaibmahmud.github.io/CRP558x/Shoaib_mahmud.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-white">
+          </div>
+        </div>
+        <div class="w3-container">
+            
+          <h2 style="color:#008080;">Shoaib Mahmud</h2>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i> Graduate Student,<a href="https://www.design.iastate.edu/community-and-regional-planning/"> Dept. of Community and Regional Planning</a> & <a href="http://www.intrans.iastate.edu/">Institute of Transportation</a></p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://en.wikipedia.org/wiki/Dhaka">Dhaka, Bangladesh</a></p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="mailto:smahmud at iastate.edu">smahmud@iastate.edu </a>,
+            <a href="mailto:shoaibmahmud93 at gmail.com">shoaibmahmud93@gmail.com</a> </p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+1 515 708 6098</p>
+          <hr>
+          <p class="w3-large"><b><i class="fa fa-superpowers fa-fw w3-margin-right w3-text-teal"></i>About Me</b></p> 
+      <p>Experienced Graduate Research Assistant with a demonstrated history of working in the higher education industry.</p> 
+          <p>Skilled in ArcGIS Products, AutoCAD, JMP, and Microsoft Excel.</p>
+          <p>My vision is to excel a researcher in transportation engineering with a focus on transportation operations, performance measures and traffic safety.</p> 
+          
+       <hr>
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Computing Skills</b></p>
+          <p > <h4 style="color:black;">GIS and Remote Sensing </h4> </p> 
+          <p>ArcGIS Desktop, ArcGIS Online, ArcGIS Pro Trans CAD, Web mapping </p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+          </div>
+          <p > <h4 style="color:black;">Web Development and Mapping </h4> </p> 
+          <p>HTML, JavaScript, CSS, jQuery, Leafet, and Mapbox</p>
+          
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+              <div class="w3-center w3-text-white">70%</div>
+            </div>
+          </div>
+          <p > <h4 style="color:black;">Programming, Engineering, and Modeling </h4> </p> 
+          <p>R and R-programming(Basic), JMP, SPSS</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
+          </div>
+          
+          <p > <h4 style="color:black;">Documentation and others </h4> </p> 
+          <p>Microsoft Office Suite, AutoCAD, and LATEX</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
+          </div>
+          <br>
+          <br>
+          <p class="w3-large"><b><i class="fa fa-university fa-fw w3-margin-right w3-text-teal"></i>Relevant Completed Courses</b></p>
+          <p > <h4 style="color:black;">Iowa State University</h4> </p> 
+          <p> Transportation Data Analytics (CE 556) </p>
+          <p> Urban Transportation Planning Models(CE551) </p>
+          <p> Introduction to Geographic Information System (CRP551)</p>
+          <p> Introduction to Web Mapping and Online GIS (CRP558)</p>
+          <p> Statistical Methods for Researchers (STAT 401)</p> <br>
+  
+          <p > <h4 style="color:black;">Bangladesh University of Engineering and Technology</h4> </p> 
+          <p> Traffic and Transportation Study (Plan 343) </p>
+          <p> Construction Materials (CE 209) </p>
+          <p> Elements of Solid Mechanics (CE 327)</p>
+          <p> Elements of Civil Engineering Structure (CE 363)</p>
+          <p> Mathematics I and II</p>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+          </div>
+          <p>Bengali</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+          </div>
+        
+          <br>
+  
+            <p class="w3-large"><b><i class="fa fa-address-card fa-fw w3-margin-right w3-text-teal"></i>References</b></p>
+  <p > <h4 style="color:black;"> <a href="https://www.design.iastate.edu/faculty/apoplin/">Dr. Alenka Poplin </a></h4> </p> 
+          <p>Assistant Professor, Community, and Regional Planning </p> 
+              <p>Email: apoplin@iastate.edu </p> 
+  
+           <p > <h4 style="color:black;"> <a href="https://www.design.iastate.edu/faculty/mobes/">Robin McNeely</a> </h4> </p> 
+  <p>Facility Manager/GIS Analyst, ISU GIS Facility </P>
+            
+           <p>Email: mobes@iastate.edu</p>  
+  
+  
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+          <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Master of Science in Transportation & Master of Community and Regional Planning (Double Degree)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016-2018(Pursuing) </h6>
+          <p>Institute of Transportation & Dept. of Community & Regional Planning, Iowa State University</p>
+          <p>Current G.P.A: 3.86 out of 4.00</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Geographic Information System (GIS) Graduate Certificate Program</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016 - 2018 (Pursuing) </h6>
+          <p>Dept. of Community & Regional Planning, Iowa State University</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Bachelor of Urban and Regional Planning</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>September 2015</h6>
+          <p>Bangladesh University of Engineering and Technology (BUET)</p>
+          <p>G.P.A: 3.55 out of 4:00</p>
+        </div>
+      </div>
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-diamond fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Honors and Awards</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>AICP Outstanding Graduate Student Award (April 2018)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-snowflake-o fa-fw w3-margin-right"></i>American Planning Association</span></h6>
+          <p>This award recognizes outstanding attainment in the study of planning by a student who is being graduated from an accredited program during the academic year of the award.</p>
+          <hr>
+        </div>
+           <div class="w3-container">
+          <h5 class="w3-opacity"><b>Marvin R. Springer Fellowship (April 2017)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-snowflake-o fa-fw w3-margin-right"></i>Dept. of Community and Regional Planning</span></h6>
+          <p>A one-time fellowship award for the first year students in the Masters of Community and Regional Planning program which is awarded in recognition of the outstanding academic progress.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          
+          
+          <h5 class="w3-opacity"><b>Technical Scholarship (Academic Year 2011-2015)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-snowflake-o fa-fw w3-margin-right"></i>Bangladesh University of Engineering and Technology</h6>
+
+          <hr>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-briefcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Graduate Teaching Assistant (August 2016-Current)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-bookmark-o fa-fw w3-margin-right"></i>Course : Introduction to Geographic Information System (CRP 551) Fundamentals of Geographic Information Systems (CRP 251X)</h6>
+          <p>Key Responsibilities: Leading the labs, creating and improving lab tutorials & grading</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Graduate Research Assistant (January 2017 –December 2017)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-bookmark-o fa-fw w3-margin-right"></i>Supervisor: Dr. Alenka Poplin </h6>
+          <p> Key Responsibilities: Data Analysis,Creating Maps and Writing Journal Papers</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Student GIS Technician (March 2017 –July 2018)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-bookmark-o fa-fw w3-margin-right"></i> Geographic Information Systems Support and Research Facility, ISU </h6>
+          <p>Key Responsibilities: Performing digitization for mapping the best management practices in the watersheds of Iowa</p><br>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Urban Planner (October 2015 – August 2016)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-bookmark-o fa-fw w3-margin-right"></i> Department of Urban and Regional Planning (DURP), BUET </h6>
+          <p>Key Responsibilities: Worked as a researcher in a UNICEF funded project and was responsible for planning and organizing consultation meeting with stakeholders AND preparing GIS maps for different levels of the prepared plan</p><br>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Internship ( January 2015 – February 2015)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-bookmark-o fa-fw w3-margin-right"></i> Dhaka Transportation Coordination Authority, Bangladesh </h6>
+          <p>Key Responsibilities: Worked as an intern in the project “Clean Air and Sustainable Environment (CASE) Project” and was responsible supervising field survey.</p><br>
+        </div>
+      </div>
+    <!-- End Right Column -->
+   
+ <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-file-text-o fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Research</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Journal Paper</b></h5>
+         
+          <p><a href="https://commons.pacificu.edu/ijurca/vol6/iss2/5/" ><b>Mahmud, S.,</b> Huq, M. E., Kar, A., Mashraky, R., Khatun, F, Islam, I. and Akther, M. S. (2014) “Managing Development of Fringe Areas in Dhaka City: ‘Land Readjustment’ as a Technique for Sustainable Future Development Ensuring Environmental and Social Justice” International Journal of Undergraduate Research and Creative Activities, Special edition</a></p>
+          
+          <p>Poplin, A., Andrade, B. A. and <b>Mahmud, S.</b>  (2018) “Conceptual Model of Power Places Designed Based on the Results of the Empirical Mapping Experiments of Places, their Descriptions and Emotions felt at these Places with the Focus on the City of Vitória in Brazil ” The Journal of Urban Design (Submitted). </p>
+          
+         <p> <a href="https://www.onlinejournal.in/IJIRV2I10/178.pdf"> Kar, A., Mashraky, R., Khatun, F., Huq, M. E.,<b> Mahmud, S.,</b> Islam, I., & Akther, M. S. (2016). Prospects of Urban Regeneration in Motijheel Commercial Area of Dhaka City. Imperial Journal of Interdisciplinary Research, 2(10).</a></p>
+
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Conference Paper</b></h5>
+          <a href="https://www.bdiusa.org/sites/default/files/pdf/Off%20Street%20Parking%20in%20Motijheel.pdf">
+          <p> Debnath A.K., Shams A, <b>Mahmud S, </b> Singha S (2015) “Estimating Economic Benefits of On-Street Parking Prohibition in Motijheel Commercial Area” presented at “Development and Democracy in Bangladesh: Problems and Prospects” organized by Bangladesh Development Initiatives at University of California, Berkley, November 2015</a></p>
+          <hr>
+        </div>
+   
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Undergraduate Thesis</b></h5>
+          <p>  <b>Mahmud, S. </b>,Shams, A. & Singha S (2015) "Determining Dynamically Optimized parking price in Motijheel Commercial Area, Bangladesh", Unpublished thesis,     Bangldesh University of Engineering and Technology.</p><br>
+        </div>
+        
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find me on Linkedin</p>
+  <a href="https://www.linkedin.com/in/shoaib-mahmud-278073bb/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+  <p>Template taken from<a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+</body>
+</html>
